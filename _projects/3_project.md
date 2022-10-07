@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Recursive Function Definitions in Static Dataflow Graphs
+title: Recursion in TensorFlow
 # description: a project that redirects to another website
 # img: assets/img/7.jpg
 # redirect: https://unsplash.com
