@@ -9,9 +9,7 @@ profile:
   image: kelly.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>7EL4, 530 W 120th St</p>
-    <p>Schapiro Center, New York</p>
-    <p>(+1) 6462869074</p>
+    <p>7EL4, 530 W 120th St, Schapiro Center, New York, (+1) 6462869074</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
