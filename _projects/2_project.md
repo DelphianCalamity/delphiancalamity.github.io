@@ -1,7 +1,7 @@
 ---
 layout: page
 title: DeepReduce: A Sparse-tensor Communication Framework for Federated Deep Learning
-description: a project with a background image
+# description: a project with a background image
 img: assets/img/3.jpg
 importance: 2
 category: work
