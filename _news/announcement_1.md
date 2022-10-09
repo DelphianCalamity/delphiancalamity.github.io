@@ -4,4 +4,4 @@ date: September 2022
 inline: true
 ---
 
-I was granted the Bodossakis Scholarchip.
+I won the Bodossakis Scholarship.
