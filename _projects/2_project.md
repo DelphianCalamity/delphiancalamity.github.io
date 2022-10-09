@@ -6,7 +6,7 @@ img: assets/publication_preview/conflict-sets.png
 # redirect: https://unsplash.com
 importance: 3
 category: Research
-github: https://github.com/DelphianCalamity/PrivateKube.git
+github: https://github.com/DelphianCalamity/horovod.git
 
 ---
 
