@@ -2,7 +2,7 @@
 layout: page
 title: DPack
 # description: a project with a background image
-# img: assets/img/12.jpg
+img: assets/img/privacy.png
 importance: 1
 category: Research
 github: https://github.com/DelphianCalamity/PrivateKube.git

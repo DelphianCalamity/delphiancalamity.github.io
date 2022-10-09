@@ -2,7 +2,7 @@
 layout: page
 title: Recursion in TensorFlow
 # description: a project that redirects to another website
-# img: assets/img/7.jpg
+img: assets/img/tree.jpeg
 # redirect: https://unsplash.com
 importance: 3
 category: Research
