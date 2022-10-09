@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>CS PhD Student at Columbia University</a>.
+subtitle: <a href='#'>CS PhD Student at Columbia University</a>
 
 profile:
   align: right
