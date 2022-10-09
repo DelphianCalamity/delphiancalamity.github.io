@@ -2,7 +2,7 @@
 layout: page
 title: DeepReduce
 # description: a project that redirects to another website
-img: assets/img/conflictsets.png
+img: assets/img/conflict-sets.png
 # redirect: https://unsplash.com
 importance: 3
 category: Research
