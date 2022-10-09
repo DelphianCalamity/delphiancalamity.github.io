@@ -1,12 +1,17 @@
 github_users:
-  - torvalds
-  - alshedivat
+  # - torvalds
+  - DelphianCalamity
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - DelphianCalamity/PrivateKube
+  - DelphianCalamity/purity_analysis
+  - DelphianCalamity/horovod
+  - DelphianCalamity/ReJOIN
+  - DelphianCalamity/tensorflow-recursion
+  
+
+  # - jekyll/jekyll
+  # - jquery/jquery
+  # - FortAwesome/Font-Awesome
+  # - jpswalsh/academicons
+  # - mathjax/MathJax

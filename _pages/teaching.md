@@ -1,12 +1,11 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+<a href="https://www.cs.columbia.edu/~junfeng/21sp-w4156/" target="_blank">TA, Advanced Software Engineering (W4156)</a>
+I held office hours, graded projects and answered questinos in Piazza for a class of 116 students.

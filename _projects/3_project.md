@@ -5,7 +5,7 @@ title: Recursion in TensorFlow
 # img: assets/img/7.jpg
 # redirect: https://unsplash.com
 importance: 3
-category:
+category: Research
 ---
 
 I investigated how recursive functions can be supported in dataflow systems and especially TensorFlow. The challenge was to create dataflow graphs that can capture the logic of recursive functions without being dynamically expanded at runtime. Static dataflow graphs enable a variety of graph optimizations that can accelerate the training of recursive neural networks, which are widely used in natural language processing.
