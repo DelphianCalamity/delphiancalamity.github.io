@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am PhD student at the Computer Science department of Columbia University, co-advised by Prof. <a href="https://www.asafcidon.com/" target="_blank">Asaf Cidon</a> and <a href="http://www.cs.columbia.edu/~junfeng/" target="_blank">Junfeng Yang</a>.
+I am a PhD student at the Computer Science department of Columbia University, co-advised by Prof. <a href="https://www.asafcidon.com/" target="_blank">Asaf Cidon</a> and <a href="http://www.cs.columbia.edu/~junfeng/" target="_blank">Junfeng Yang</a>.
 My current research focuses on the intersection of systems and differential privacy. I am interested in building functional prototypes of practical data systems that can leverage differential privacy to provide privacy guarantees to their users.
 
 <!-- 
