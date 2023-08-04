@@ -2,7 +2,7 @@
 layout: page
 title: Turbo
 # description: a project with a background image
-img: assets/img/
+img: assets/img/tree-structured-PMW-Bypass.png
 importance: 1
 category: Research
 github: https://github.com/columbia/turbo-artifact
