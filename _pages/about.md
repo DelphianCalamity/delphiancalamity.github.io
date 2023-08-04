@@ -12,7 +12,7 @@ profile:
     <p>Office 7EL4, 530 W 120th St, Schapiro Center, New York, (+1) 6462869074, kelkost(at)cs.columbia.edu</p>
 
 news: false  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
