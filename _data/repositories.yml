@@ -8,6 +8,7 @@ github_repos:
   - DelphianCalamity/horovod
   - DelphianCalamity/ReJOIN
   - DelphianCalamity/tensorflow-recursion
+  - columbia/turbo-artifact
   
 
   # - jekyll/jekyll
