@@ -16,9 +16,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD student at the Computer Science department of Columbia University, working with <a href="https://www.asafcidon.com/" target="_blank">Asaf Cidon</a>, <a href="https://roxanageambasu.github.io/" target="_blank">Roxana Geambasu</a> and <a href="http://www.cs.columbia.edu/~junfeng/" target="_blank">Junfeng Yang</a>.
+I am a PhD candidate at the Computer Science department of Columbia University, working with <a href="https://www.asafcidon.com/" target="_blank">Asaf Cidon</a> and <a href="https://roxanageambasu.github.io/" target="_blank">Roxana Geambasu</a>.
 
-My research focuses on privacy and systems for machine learning, with a focus on differential privacy and optimizing distributed training for large-scale deep neural networks. My current work focuses on building functional prototypes of practical data systems that can leverage differential privacy to provide privacy guarantees to their users.
+My research spans broad areas of computer systems including distributed systems, privacy and systems for machine learning with a focus on optimizing training for large-scale deep neural networks. 
+Lately, my work focuses on building functional prototypes of practical data systems that can leverage differential privacy to provide privacy guarantees to their users.
 
 I studied Computer Science at the University of Athens with a specialization in software systems, big data and machine learning.
 
