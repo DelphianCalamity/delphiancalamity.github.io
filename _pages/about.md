@@ -18,8 +18,8 @@ social: true  # includes social icons at the bottom of the page
 
 I am a PhD candidate at the Computer Science department of Columbia University, working with <a href="https://www.asafcidon.com/" target="_blank">Asaf Cidon</a> and <a href="https://roxanageambasu.github.io/" target="_blank">Roxana Geambasu</a>.
 
-My research spans broad areas of computer systems including distributed systems, privacy and systems for machine learning with a focus on optimizing training for large-scale deep neural networks. 
-Lately, my work focuses on building functional prototypes of practical data systems that can leverage differential privacy to provide privacy guarantees to their users.
+My research spans broad areas of computer systems including distributed systems, privacy and systems for machine learning with a focus on accelerating training for large-scale deep neural networks. 
+Lately, my work focuses on building functional system prototypes to enhcance the practicality of differentially-private databases.
 
 I studied Computer Science at the University of Athens with a specialization in software systems, big data and machine learning.
 
