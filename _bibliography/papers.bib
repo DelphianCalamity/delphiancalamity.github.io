@@ -26,16 +26,21 @@ preview={example-packing-across-blocks.png},
 selected={false}
 }
 
-@inproceedings{
-kostopoulou2023boost,
-title={Turbo: Effective Caching in Differentially-Private Databases}, 
-author={Kelly Kostopoulou and Pierre Tholoniat and Asaf Cidon and Roxana Geambasu and Mathias Lécuyer},
-booktitle={Symposium of Operating Systems},
-year={2023},
-url={https://arxiv.org/pdf/2306.16163.pdf},
-pdf={boost.pdf},
-preview={tree-structured-PMW-Bypass.png},
-selected={false}
+@inproceedings{10.1145/3600006.3613174,
+author = {Kostopoulou, Kelly and Tholoniat, Pierre and Cidon, Asaf and Geambasu, Roxana and L\'{e}cuyer, Mathias},
+title = {Turbo: Effective Caching in Differentially-Private Databases},
+year = {2023},
+isbn = {9798400702297},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3600006.3613174},
+doi = {10.1145/3600006.3613174},
+abstract = {Differentially-private (DP) databases allow for privacy-preserving analytics over sensitive datasets or data streams. In these systems, user privacy is a limited resource that must be conserved with each query. We propose Turbo, a novel, state-of-the-art caching layer for linear query workloads over DP databases. Turbo builds upon private multiplicative weights (PMW), a DP mechanism that is powerful in theory but ineffective in practice, and transforms it into a highly-effective caching mechanism, PMW-Bypass, that uses prior query results obtained through an external DP mechanism to train a PMW to answer arbitrary future linear queries accurately and "for free" from a privacy perspective. Our experiments on public Covid and CitiBike datasets show that Turbo with PMW-Bypass conserves 1.7 -- 15.9\texttimes{} more budget compared to vanilla PMW and simpler cache designs, a significant improvement. Moreover, Turbo provides support for range query workloads, such as timeseries or streams, where opportunities exist to further conserve privacy budget through DP parallel composition and warm-starting of PMW state. Our work provides a theoretical foundation and general system design for effective caching in DP databases.},
+booktitle = {Proceedings of the 29th Symposium on Operating Systems Principles},
+pages = {579–594},
+numpages = {16},
+location = {Koblenz, Germany},
+series = {SOSP '23}
 }
 
 
