@@ -3,12 +3,14 @@ github_users:
   - DelphianCalamity
 
 github_repos:
+  - columbia/turbo
   - DelphianCalamity/PrivateKube
+  - DelphianCalamity/tensorflow-recursion
   - DelphianCalamity/purity_analysis
+  - DelphianCalamity/DeepReduce 
   - DelphianCalamity/horovod
   - DelphianCalamity/ReJOIN
-  - DelphianCalamity/tensorflow-recursion
-  - columbia/turbo-artifact
+  
   
 
   # - jekyll/jekyll
