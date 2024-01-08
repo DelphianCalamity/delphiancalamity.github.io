@@ -4,4 +4,4 @@ date: September 2022
 inline: true
 ---
 
-I won the Bodossakis Scholarship.
+I won the Onassis and Bodossakis Scholarships.
