@@ -1,8 +1,7 @@
 ---
 layout: post
-date: September 2022
+date: August 2023
 inline: true
 ---
 
-I won the Onassis Scholarship. 
-
+Turbo accepted to SOSP’23!
