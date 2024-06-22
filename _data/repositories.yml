@@ -3,6 +3,7 @@ github_users:
   - DelphianCalamity
 
 github_repos:
+  - columbia/chromium
   - columbia/turbo
   - DelphianCalamity/PrivateKube
   - DelphianCalamity/tensorflow-recursion
