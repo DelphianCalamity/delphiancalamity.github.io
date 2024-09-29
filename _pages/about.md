@@ -6,7 +6,7 @@ subtitle: <a href='#'>CS PhD Student at Columbia University</a>
 
 profile:
   align: right
-  image: kelly.jpg
+  image: kelly-2.jpg
   image_circular: true # crops the image to make it circular
   address: >
     <p>Office 7EL4, 530 W 120th St, Schapiro Center, New York, (+1) 6462869074, kelkost(at)cs.columbia.edu</p>
