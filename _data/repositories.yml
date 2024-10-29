@@ -3,9 +3,10 @@ github_users:
   - DelphianCalamity
 
 github_repos:
+  - columbia/cookiemonster
   - columbia/chromium
   - columbia/turbo
-  - DelphianCalamity/PrivateKube
+  - DelphianCalamity/dpack
   - DelphianCalamity/tensorflow-recursion
   - DelphianCalamity/purity_analysis
   - DelphianCalamity/DeepReduce 
