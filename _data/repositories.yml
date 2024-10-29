@@ -6,7 +6,7 @@ github_repos:
   - columbia/cookiemonster
   - columbia/chromium
   - columbia/turbo
-  - DelphianCalamity/dpack
+  - columbia/dpack
   - DelphianCalamity/tensorflow-recursion
   - DelphianCalamity/purity_analysis
   - DelphianCalamity/DeepReduce 
