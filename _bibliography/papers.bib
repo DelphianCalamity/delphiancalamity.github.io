@@ -62,13 +62,16 @@ selected={false}
 }
 
 @misc{kostopoulou2024recursivefunctiondefinitionsstatic,
-      title={Recursive Function Definitions in Static Dataflow Graphs and their Implementation in TensorFlow}, 
-      author={Kelly Kostopoulou and Angelos Charalambidis and Panos Rondogiannis},
-      year={2024},
-      eprint={2410.20225},
-      archivePrefix={arXiv},
-      primaryClass={cs.PL},
-      url={https://arxiv.org/abs/2410.20225}, 
+title={Recursive Function Definitions in Static Dataflow Graphs and their Implementation in TensorFlow}, 
+author={Kelly Kostopoulou and Angelos Charalambidis and Panos Rondogiannis},
+year={2024},
+eprint={2410.20225},
+archivePrefix={arXiv},
+primaryClass={cs.PL},
+url={https://arxiv.org/abs/2410.20225}, 
+abstract = {Modern machine learning systems represent their computations as dataflow graphs. The increasingly complex neural network architectures crave for more powerful yet efficient programming abstractions. In this paper we propose an efficient technique for supporting recursive function definitions in dataflow-based systems such as TensorFlow. The proposed approach transforms the given recursive definitions into a static dataflow graph that is enriched with two simple yet powerful dataflow operations. Since static graphs do not change during execution, they can be easily partitioned and executed efficiently in distributed and heterogeneous environments. The proposed technique makes heavy use of the idea of tagging, which was one of the cornerstones of dataflow systems since their inception. We demonstrate that our technique is compatible with the idea of automatic differentiation, a notion that is crucial for dataflow systems that focus on deep learning applications. We describe the principles of an actual implementation of the technique in the TensorFlow framework, and present experimental results that demonstrate that the use of tagging is of paramount importance for developing efficient high-level abstractions for modern dataflow systems.},
+preview={tensorflow_recursion.png},
+pdf={tensorflow_recursion.pdf},
 }
 
 @inproceedings{
