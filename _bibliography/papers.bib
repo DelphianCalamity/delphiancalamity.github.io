@@ -24,6 +24,7 @@ overhead. As a proof of concept, we implement our approach on TensorFlow
 and PyTorch. Our experiments with real models demonstrate that DeepReduce
 transmits 320% less data than existing sparsifiers, without affecting accuracy.},
 pdf={deepreduce_a_sparse_tensor_com.pdf},
+code={https://github.com/DelphianCalamity/DeepReduce},
 preview={conflict-sets.png},
 selected={false}
 }
@@ -45,7 +46,8 @@ location = {Koblenz, Germany},
 series = {SOSP '23},
 pdf={turbo.pdf},
 preview={tree-structured-PMW-Bypass.png},
-talk={https://www.youtube.com/watch?v=eMg3fC1fLxc}, 
+talk={https://www.youtube.com/watch?v=eMg3fC1fLxc},
+code={https://github.com/columbia/turbo},
 selected={false}
 }
 
@@ -59,6 +61,7 @@ series = {SOSP '24},
 abstract={With the impending removal of third-party cookies from major browsers and the introduction of new privacy-preserving advertising APIs, the research community has a timely opportunity to assist industry in qualitatively improving the Web's privacy. This paper discusses our efforts, within a W3C community group, to enhance existing privacy-preserving advertising measurement APIs. We analyze designs from Google, Apple, Meta and Mozilla, and augment them with a more rigorous and efficient differential privacy (DP) budgeting component. Our approach, called Alistair, enforces well-defined DP guarantees and enables advertisers to conduct more private measurement queries accurately. By framing the privacy guarantee in terms of an individual form of DP, we can make DP budgeting more efficient than in current systems that use a traditional DP definition. We incorporate Alistair into Chrome and evaluate it on microbenchmarks and advertising datasets. Across all workloads, Alistair significantly outperforms baselines in enabling more advertising measurements under comparable DP protection.},
 pdf={cookiemonster.pdf},
 preview={cookiemonster.png},
+code={https://github.com/columbia/cookiemonster},
 selected={false}
 }
 
@@ -72,6 +75,7 @@ primaryClass={cs.PL},
 url={https://arxiv.org/abs/2410.20225}, 
 abstract = {Modern machine learning systems represent their computations as dataflow graphs. The increasingly complex neural network architectures crave for more powerful yet efficient programming abstractions. In this paper we propose an efficient technique for supporting recursive function definitions in dataflow-based systems such as TensorFlow. The proposed approach transforms the given recursive definitions into a static dataflow graph that is enriched with two simple yet powerful dataflow operations. Since static graphs do not change during execution, they can be easily partitioned and executed efficiently in distributed and heterogeneous environments. The proposed technique makes heavy use of the idea of tagging, which was one of the cornerstones of dataflow systems since their inception. We demonstrate that our technique is compatible with the idea of automatic differentiation, a notion that is crucial for dataflow systems that focus on deep learning applications. We describe the principles of an actual implementation of the technique in the TensorFlow framework, and present experimental results that demonstrate that the use of tagging is of paramount importance for developing efficient high-level abstractions for modern dataflow systems.},
 preview={tensorflow_recursion.png},
+code={https://github.com/DelphianCalamity/tensorflow-recursion},
 pdf={tensorflow_recursion.pdf},
 }
 
@@ -84,6 +88,7 @@ url={https://arxiv.org/pdf/2212.13228.pdf},
 abstract = {Machine learning (ML) models can leak information about users, and differential privacy (DP) provides a rigorous way to bound that leakage under a given budget. This DP budget can be regarded as a new type of compute resource in workloads of multiple ML models training on user data. Once it is used, the DP budget is forever consumed. Therefore, it is crucial to allocate it most efficiently to train as many models as possible. This paper presents the scheduler for privacy that optimizes for efficiency. We formulate privacy scheduling as a new type of multidimensional knapsack problem, called privacy knapsack, which maximizes DP budget efficiency. We show that privacy knapsack is NP-hard, hence practical algorithms are necessarily approximate. We develop an approximation algorithm for privacy knapsack, DPK, and evaluate it on microbenchmarks and on a new, synthetic private-ML workload we developed from the Alibaba ML cluster trace. We show that DPK: (1) often approaches the efficiency-optimal schedule, (2) consistently schedules more tasks compared to a state-of-the-art privacy scheduling algorithm that focused on fairness (1.3-1.7x in Alibaba, 1.0-2.6x in microbenchmarks), but (3) sacrifices some level of fairness for efficiency. Therefore, using DPK, DP ML operators should be able to train more models on the same amount of user data while offering the same privacy guarantee to their users.},
 pdf={dpack.pdf},
 preview={example-packing-across-blocks.png},
+code={https://github.com/columbia/dpack},
 booktitle = {EuroSys},
 series = {EuroSys '25},
 selected={false}
