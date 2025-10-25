@@ -18,8 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am a Research Scientist at Meta, where I work on Meta’s internal container deployment and cluster management system — the core infrastructure that powers Meta at scale.
 
-Previously, I completed my Ph.D. in Computer Science at Columbia University, where I was advised by with <a href="https://www.asafcidon.com/" target="_blank">Asaf Cidon</a> and <a href="https://roxanageambasu.github.io/" target="_blank">Roxana Geambasu</a>.
-
+Previously, I completed my Ph.D. in Computer Science at Columbia University, where I was advised by <a href="https://www.asafcidon.com/" target="_blank">Asaf Cidon</a> and <a href="https://roxanageambasu.github.io/" target="_blank">Roxana Geambasu</a>.
 My research spanned broad areas of computer systems, including distributed systems, privacy, and systems for machine learning. 
 The bulk of my Ph.D. work centered on building functional system prototypes to enhance the practicality of differentially private databases.
 
