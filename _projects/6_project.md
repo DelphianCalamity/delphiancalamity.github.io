@@ -2,7 +2,7 @@
 layout: page
 title: Sangria
 # description: a project that redirects to another website
-img: assets/heat.png
+img: assets/img/heat.png
 # redirect: https://unsplash.com
 importance: 3
 category: Research
