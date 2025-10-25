@@ -103,3 +103,21 @@ preview={grad.jpg},
 pdf={dissertation.pdf},
 selected={false}
 }
+
+@inproceedings{
+rose,
+title={Rosé: Flexible Replication With Strong Semantics For Partitioned Databases}, 
+author={Ioannis Zarkadas, Kelly Kostopoulou, Thomas Graham, Junfeng Yang, Phil Bernstein, Asaf Cidon, Tamer Eldeeb},
+year={2026},
+url={},
+abstract = {Asynchronous primary-backup database replication is popular because it strikes a desirable balance between write latency and durability. Unfortunately, it has significant downsides. In partitioned databases, each partition is typically replicated independently, which means that data loss during failover can leave the database in an undefined state that is hard for developers to reason about. In addition, replication lag can grow over time, expose users to stale data and create durability issues. Finally, time to recovery and performance after failover can suffer if backup partitions progress unevenly. Rosé is a novel replication scheme to address the limitations of asynchronous primary backup replication in partitioned databases, by striking a balance between full synchronicity and asynchronicity. First, databases integrate existing their existing snapshotting mechanisms (e.g., real-time or epochs) with asynchronous replication to provide monotonic-prefix consistency semantics at the backup. Second, in order to bound replication lag, Rosé proposes push-based replication that can track the lag and apply backpressure at the primary, in a way that maintains high availability. Third, Rosé ensures fast recovery and full performance after failover by separating the replication of writes from their application to the backup partition's key-value store. We integrate Rosé with Chablis, a geo-distributed, multi-versioned transactional key-value store to preserve the benefit of fast single datacenter (DC) transactions while ensuring multi-DC durability.},
+pdf={},
+preview={rose.png},
+code={},
+booktitle = {CIDR},
+series = {CIDR '26},
+selected={false}
+}
+
+
+
