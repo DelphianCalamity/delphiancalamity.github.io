@@ -1,15 +1,13 @@
 ---
 layout: page
-title: Turbo
+title: Cookie Monster
 # description: a project with a background image
-img: assets/img/tree-structured-PMW-Bypass.png
+img: assets/img/cookiemonster.png
 importance: 1
 category: Research
-github: https://github.com/columbia/turbo-artifact
+github: https://github.com/columbia/cookiemonster
 ---
 
-Effective caching for linear query workloads over DP databases. Turbo builds upon private multiplicative weights (PMW), a DP mechanism that is powerful in theory but very ineffective in practice, 
-and transforms it into a highly effective caching object, namely PMW-Bypass. A description of this project can be found on our paper, titled Turbo: Effective caching in Differentially-Private Databases.
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wcx53OCn_Sk?si=ANTN2p1onp4QfPr4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Cookie Monster is an on-device budgeting component that can be integrated into differentially private ad measurement systems. Powered by a robust theoretical framework known as Individual Differential Privacy (IDP), a variant of traditional differential privacy, Cookie Monster allows advertisers to conserve significantly
+more privacy budget compared to existing alternatives. 
+Cookie Monster is incorporated in Mozilla's W3C draft for standardization -- now under active specification with participation from all major browsers.

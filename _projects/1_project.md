@@ -3,7 +3,7 @@ layout: page
 title: DPack
 # description: a project with a background image
 img: assets/img/example-packing-across-blocks.png
-importance: 1
+importance: 4
 category: Research
 github: https://github.com/DelphianCalamity/PrivateKube/pull/3
 ---

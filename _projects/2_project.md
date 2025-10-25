@@ -4,7 +4,7 @@ title: DeepReduce
 # description: a project that redirects to another website
 img: assets/img/conflict-sets.png
 # redirect: https://unsplash.com
-importance: 3
+importance: 5
 category: Research
 github: https://github.com/DelphianCalamity/horovod.git
 

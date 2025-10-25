@@ -4,7 +4,7 @@ title: Recursion in TensorFlow
 # description: a project that redirects to another website
 img: assets/img/tree.jpeg
 # redirect: https://unsplash.com
-importance: 3
+importance: 6
 category: Research
 github: https://github.com/DelphianCalamity/tensorflow-recursion.git
 ---
