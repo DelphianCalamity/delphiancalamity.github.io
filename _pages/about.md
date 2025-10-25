@@ -9,7 +9,7 @@ profile:
   image: Kelly-2.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>New York, (+1) 6462869074, kelkost(at)meta.com</p>
+    <p>Meta Farley, New York, (+1) 6462869074, kelkost(at)meta.com</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
