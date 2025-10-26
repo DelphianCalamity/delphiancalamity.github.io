@@ -1,7 +1,0 @@
----
-layout: post
-date: September 2025
-inline: true
----
-
-Rosé accepted to CIDR'26!
